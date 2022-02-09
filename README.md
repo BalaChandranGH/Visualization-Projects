@@ -12,7 +12,7 @@ The repository contains Visualization projects developed by me in Python using J
 2) Pandas
 3) Matplotlib
 ```
-
+   
 <br>
 ## **VIP2-Visualization-BarChartInterative-RandomSamples**   
 `Name of the notebook:` VizPy-DemoProj-2.ipynb   
@@ -25,7 +25,7 @@ The repository contains Visualization projects developed by me in Python using J
 3) SciPy
 4) Matplotlib
 ```
-
+   
 <br>
 ## **VIP3-Visualization-BarChartTrendLine-LifeInsurances**   
 `Name of the notebook:` VizPy-DemoProj-3.ipynb   
