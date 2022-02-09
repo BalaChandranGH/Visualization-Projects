@@ -12,8 +12,7 @@ The repository contains Visualization projects developed by me in Python using J
 2) Pandas
 3) Matplotlib
 ```
-   
-<br>
+<br><br>
 ## **VIP2-Visualization-BarChartInterative-RandomSamples**   
 `Name of the notebook:` VizPy-DemoProj-2.ipynb   
 `Type of the problem:` Visualization - Bar chart with confidence intervals   
@@ -25,8 +24,7 @@ The repository contains Visualization projects developed by me in Python using J
 3) SciPy
 4) Matplotlib
 ```
-   
-<br>
+<br><br>
 ## **VIP3-Visualization-BarChartTrendLine-LifeInsurances**   
 `Name of the notebook:` VizPy-DemoProj-3.ipynb   
 `Type of the problem:` Visualization - Bar chart with Trend lines   
