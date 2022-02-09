@@ -1,5 +1,4 @@
 # Visualization-Projects
-Repository of visualization projects developed in Python using Jupyter notebook.
 
 The repository contains Visualization projects developed by me in Python using Jupyter notebook, for learning and reference purposes. All these projects were developed based on the template I created for Machine Learning projects. The details of the projects are given below.
 
