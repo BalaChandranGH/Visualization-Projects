@@ -1,8 +1,8 @@
 # Visualization-Projects
 
 The repository contains Visualization projects developed by me in Python using Jupyter notebook, for learning and reference purposes. All these projects were developed based on the template I created for Machine Learning projects. The details of the projects are given below.
-
-### **VIP1-Visualization-LinePlotScatterPlot-Temperatures**   
+<br><br>
+## **VIP1-Visualization-LinePlotScatterPlot-Temperatures**   
 `Name of the notebook:` VizPy-DemoProj-1.ipynb   
 `Type of the problem:` Visualization - Line graph & Scatter plot   
 `Data source(s):` From a subset of The National Centers for Environmental Information (NCEI) [Daily Global Historical Climatology Network](https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt) (GHCN-Daily). The GHCN-Daily is comprised of daily climate records from thousands of land surface stations across the globe.   
@@ -12,8 +12,7 @@ The repository contains Visualization projects developed by me in Python using J
 2) Pandas
 3) Matplotlib
 ```
-
-
+<br><br>
 ### **VIP2-Visualization-BarChartInterative-RandomSamples**   
 `Name of the notebook:` VizPy-DemoProj-2.ipynb   
 `Type of the problem:` Visualization - Bar chart with confidence intervals   
@@ -25,8 +24,7 @@ The repository contains Visualization projects developed by me in Python using J
 3) SciPy
 4) Matplotlib
 ```
-
-
+<br><br>
 ### **VIP3-Visualization-BarChartTrendLine-LifeInsurances**   
 `Name of the notebook:` VizPy-DemoProj-3.ipynb   
 `Type of the problem:` Visualization - Bar chart with Trend lines   
